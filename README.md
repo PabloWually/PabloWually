@@ -4,18 +4,20 @@ Hi 👋 My name is Pablo Guallichico
 Backend Developer | Data Enthusiast
 -----------------------------------
 
-Energetic backend developer passionate about building robust systems and optimizing performance. With a strong foundation in languages such as JavaScript, Python, and C#, as well as expertise in database management and API development.
+Energetic backend developer passionate about building robust systems and optimizing performance. With a strong foundation in languages such as JavaScript, Python, and C#, as well as expertise in database management, API development and data projects.
 
 * 🌍  I'm based in Quito - Ecuador
 * ✉️  You can contact me at [pablo.guallichico@outlook.com](mailto:pablo.guallichico@outlook.com)
 * 🚀  I'm currently working on [Booking App](http://airbnc-six.vercel.app/)
 * 🧠  I'm learning .Net and Machine Learning
+* 🤝  I'm open to collaborating on Machine Leraning projects
 
 ### Skills
 
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
